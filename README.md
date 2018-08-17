@@ -1,0 +1,1 @@
+# wordcount-and-readingtime-wp-plugin
